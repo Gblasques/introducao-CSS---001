@@ -1,0 +1,7 @@
+/* Altura | Largura */
+/* height | width */
+
+Codigos para ambientação 
+alt+shift+f
+ou
+ctrl+shift+i
